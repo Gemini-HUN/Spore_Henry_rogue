@@ -20,4 +20,8 @@ The hunger system rewrote by request on every difficulty:
 
 # This mod does not effect on other stages, I did not tested how effect if finish creature stage, I just played a new tribe game
 I did not plan update this mod, feel free to edit my mod or use it.
-Credits it depends on your conscience
+
+# Credits
+* freak767 (original mod)
+* NPC_MiniBoss.prop.prop_t
+Credits is depends on your conscience
