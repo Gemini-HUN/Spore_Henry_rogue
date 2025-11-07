@@ -22,7 +22,7 @@ The hunger system rewrote by request on every difficulty:
 I did not plan update this mod, feel free to edit my mod or use it.
 
 # Credits
-* freak767 (original mod)
+* freak767 (original mod: TRUE ROGUE)
 * NPC_MiniBoss.prop.prop_t
 
 Credits is depends on your conscience
