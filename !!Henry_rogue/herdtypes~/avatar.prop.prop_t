@@ -1,0 +1,68 @@
+key parent herdtypes~!default.prop
+vector2 Altitude (1, 10000)
+uint32s AssociatedGameNounIDs
+	0xa347cc28
+	hash(SkeletonPartUnlockColumn1)
+	hash(SkeletonPartUnlockColumn1_avatar)
+	hash(SkeletonPartUnlockColumn2_avatar)
+	hash(SkeletonPartUnlockColumn1_avatar)
+	hash(SkeletonPartUnlockColumn1_avatar)
+	hash(SkeletonPartUnlockColumn2_avatar)
+	hash(SkeletonPartUnlockColumn1_avatar)
+	hash(SkeletonPartUnlockColumn1_avatar)
+	hash(SkeletonPartUnlockColumn2_avatar)
+	hash(SkeletonPartUnlockColumn1_avatar)
+	hash(SkeletonPartUnlockColumn1_avatar)
+	hash(SkeletonPartUnlockColumn2_avatar)
+	hash(SkeletonPartUnlockColumn1_avatar)
+	hash(SkeletonPartUnlockColumn1_avatar)
+	hash(SkeletonPartUnlockColumn2_avatar)
+	hash(SkeletonPartUnlockColumn1_avatar)
+	hash(SkeletonPartUnlockColumn1_avatar)
+	hash(SkeletonPartUnlockColumn2_avatar)
+	hash(SkeletonPartUnlockColumn1_avatar)
+	hash(SkeletonPartUnlockColumn1_avatar)
+	hash(SkeletonPartUnlockColumn2_avatar)
+	hash(Seashells1)
+	0x76d1ea2f
+	hash(Seashells2)
+	hash(Seashells3)
+	hash(Seashells4)
+	hash(Sticks1)
+	hash(log)
+	hash(log)
+end
+float DamageMultiplier 2
+int32 FoodChainLevel 9
+bool HasNest false
+float HitpointOverride 250
+colorRGB LevelEditorColor (1, 1, 1)
+vector2 NumCreatures (0, 0)
+int32 NumGuardLocations 4
+vector2 NumNests (1, 1)
+float RespawnRate 5
+int32 SocialGroupSize 1
+vector2 WaterDistance (25, -1)
+float exclusiveAreaRadiusGroupLarge 1
+float exclusiveAreaRadiusGroupMedium 10
+float exclusiveAreaRadiusGroupSmall 1
+vector2 guardLocationRadiusRange (5, 10)
+vector2 guardPositionDurationRange (10, 30)
+int32 guardsPerLocation 1
+uint32 initialAvatarRelationship 6
+bool isMiniboss true
+int32 numInGroupToStartWithSpecial 1
+uint32 numSocialProposals 1
+vector2 percentBabiesRange (0.167, 0.167)
+uint32s relatedArchetypes
+end
+uint32s schedules
+	0x778f18a1
+end
+vector2 slope (0, 40)
+float slopeArea 25
+float socialDecay 0
+float socialPower 800
+int32 standardAttacksPerSpecial 2
+int32 type 2
+bool useOrigin false

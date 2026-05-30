@@ -1,0 +1,6 @@
+key parent CreatureGame!MotiveTuning.prop
+float creatureHungerDrain 1
+float creaturePosseHealthRecovery 0.1
+float creatureRestingHealthRecovery 0
+float creatureStarvationPain 0.05
+float hungerDecayDelay 60

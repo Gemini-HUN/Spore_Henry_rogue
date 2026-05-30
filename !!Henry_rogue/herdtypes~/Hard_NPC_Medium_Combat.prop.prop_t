@@ -1,0 +1,28 @@
+key parent herdtypes~!NPC_Medium_Combat.prop
+vector2 Altitude (1, 10000)
+float DamageMultiplier 1.5
+float HitpointOverride 30
+vector2 OriginDistance (10, 20)
+float PlacementPercentage 0.74
+int32 SocialGroupSize 3
+vector2 WaterDistance (30, -1)
+int32 attacked_MaxSpeciesToAlert 4
+float attacked_SpeciesHelpRadius 50
+float exclusiveAreaRadiusGroupLarge 60
+float exclusiveAreaRadiusGroupMedium 75
+float exclusiveAreaRadiusGroupSmall 1
+int32 fightGroupSize 3
+uint32 initialAvatarRelationship 1
+int32 numInGroupToStartWithSpecial 2
+uint32 numSocialProposals 3
+vector2s optionalOriginDistances
+end
+vector2 slope (0, 55)
+float slopeArea 25
+float socialDrainRate 0.2
+float socialTimeBeforeDrain 0.1
+int32 standardAttacksPerSpecial 100
+uint32s upgradeHerdList
+	hash(Hard_NPC_Large_Combat)
+end
+bool useOrigin true
