@@ -1,5 +1,5 @@
 # Spore_Henry_rogue
-* Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=d81b60&icon=github)
+### Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=d81b60&icon=github)
 
 This mod make player like rogue depends on a Spore player's wish.
 
