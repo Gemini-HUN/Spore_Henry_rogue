@@ -20,7 +20,7 @@ The hunger system rewrote by request on every difficulty:
 * creatureStarvationPain 0.05
 * hungerDecayDelay 60
 
-# This mod does not effect on other stages, I did not tested how effect if finish creature stage, I just played a new tribe game
+### This mod does not effect on other stages, I did not tested how effect if finish creature stage, I just played a new tribe game
 I did not plan update this mod, feel free to edit my mod or use it.
 
 # Credits
