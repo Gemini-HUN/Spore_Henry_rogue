@@ -4,7 +4,7 @@
 ## How to install mods?
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
 
-This mod make player like rogue depends on a Spore player's wish.
+### This mod make player like rogue depends on a Spore player's wish.
 
 
 Every creature fear of player exception Rogues and Epics.
