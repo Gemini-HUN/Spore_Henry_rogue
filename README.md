@@ -1,6 +1,9 @@
 # Spore_Henry_rogue
 ## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_Henry_rogue?style=flat-square&color=d81b60&logo=github)
 
+## How to install mods?
+I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
+
 This mod make player like rogue depends on a Spore player's wish.
 
 
